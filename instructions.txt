@@ -1,0 +1,13 @@
+Link to repository: https://github.com/aidenwong04/myrepo 
+This is the 'myrepo' repository that I created in this assignment.
+
+Link to forked repo: https://github.com/aidenwong04/intern-bootcamp-git
+This is the forked intern-bootcamp-git repo
+
+First I created a repository on GitHub and cloned it into my terminal using a SSH key. 
+
+Then I learned how to track changes using git, how to add, commit, and push to the remote repository. 
+
+I then learned how to create a new branch on the cloned repository, how to modify it, and how to commit branch changes. After that, I also learned how to squash multiple commits into one commit. 
+
+Finally, I learned how to create a pull request, and sync my repository with the upstream.
